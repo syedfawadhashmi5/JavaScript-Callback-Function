@@ -22,6 +22,3 @@ const persontwo = () => {
 
 
 
-
-
-person(personone, persontwo);

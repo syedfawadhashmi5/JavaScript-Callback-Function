@@ -22,7 +22,7 @@ async function postapi() {
         method: 'POST',
         body: JSON.stringify({
           title: 'bootcamp-2020',
-          body: 'postapi',
+          body: 'javascript',
           userId: 1
         }),
         headers: {
